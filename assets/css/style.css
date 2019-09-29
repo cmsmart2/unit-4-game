@@ -3,3 +3,38 @@ img {
     height: 300px; 
 
 }
+body {
+    background: url(../images/full-bloom.png);
+}
+#myHeader{
+    text-align: center;
+    background-color: rgb(219, 157, 219);
+    font-size: 60px;
+    font-family: 'Notable', sans-serif;
+    margin-bottom: 40px;
+
+}
+#instructions {
+    margin: 0 auto;
+    border-color: rgb(219, 157, 219);
+    border-width: 40px;
+    border-style: dotted;
+    font-size: 30px;
+    padding: 20px;
+
+}
+.random-number, .wins, .losses{
+    margin: 40px;
+    font-size: 40px;
+    font-family: 'Courgette', cursive;
+}
+.total-score-text {
+    font-size: 40px;
+    margin: 20px;
+    background-color: rgb(219, 157, 219);
+    padding: 20px;
+    
+}
+.total-score {
+    font-size: 40px;
+}
