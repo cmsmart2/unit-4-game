@@ -1,6 +1,6 @@
 img {
-    width: 100px;
-    height: 200px; 
+    width: 200px;
+    height: 250px; 
 
 }
 body {
@@ -17,7 +17,7 @@ body {
 #instructions {
     margin: 0 auto;
     border-color: rgb(219, 157, 219);
-    border-width: 40px;
+    border-width: 30px;
     border-style: dotted;
     font-size: 20px;
     padding: 20px;
